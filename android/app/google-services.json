@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "71150704649",
+    "firebase_url": "https://digital-gate-pass-9a235-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "digital-gate-pass-9a235",
+    "storage_bucket": "digital-gate-pass-9a235.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71150704649:android:9f692ec6156f006c3040d8",
+        "android_client_info": {
+          "package_name": "com.example.digital_gate_pass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71150704649-no0p3m9o6m8ha3ka8gtso0ktebe448cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digital_gate_pass",
+            "certificate_hash": "1e0934c763e4bcf4d70703580dbd91d7a7df47b7"
+          }
+        },
+        {
+          "client_id": "71150704649-u156rq01im6q48nhkt0hlk2vhl9dm1q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk1CXRYv2LzwIWpGeBx2uFovIGH7G5zn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71150704649-u156rq01im6q48nhkt0hlk2vhl9dm1q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
